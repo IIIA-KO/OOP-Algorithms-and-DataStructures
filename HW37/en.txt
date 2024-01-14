@@ -1,0 +1,50 @@
+/--/--/--/--/--/--/--/--/--/--/--/--/--/--/--/--/ DRUNKARD /--/--/--/--/--/--/--/--/--/--/--/--/--/--/--/--/
+Play
+Rules
+Show Results Table
+Exit
+To start, press Enter...
+You take 
+Bot takes 
+ cads
+/--/--/--/--/ QUARREL /--/--/--/--/
+/--/--/--/--/--/--/--/--/--/--/--/--/--/--/--/--/ YOU HAVE BECOME A BITTER DRUNKARD /--/--/--/--/--/--/--/--/--/--/--/--/--/--/--/--/
+/--/--/--/--/--/--/--/--/--/--/--/--/--/--/--/--/ BOT HAS BECOME A BITTER DRUNKARD /--/--/--/--/--/--/--/--/--/--/--/--/--/--/--/--/
+Save game result
+Do not save game result
+Enter your name: 
+/--/--/--/--/--/--/--/--/--/--/--/--/--/--/--/--/ DRUNKARD GAME RULES /--/--/--/--/--/--/--/--/--/--/--/--/--/--/--/--/
+The game uses a deck of 36 cards. The game can be played by two to eight players.
+The deck is dealt equally to all players. Players do not look at their cards but place them in the stack next to them.
+The first player removes the top card of his stack and places it in the center of the table open. The other players in the circle do the same.
+The player whose card is higher than all the others, removes his and the \"beaten\" cards and puts them at the bottom of his stack.
+A player who loses all his cards is out of the game.
+Six does not "beat" everything. According to the rules of the game, the Six is "junior" to all cards except the Ace
+If two or more players have the same cards (this situation is called "Quarrel")
+Each of these players puts another card on top, and the one whose card is higher than all the others, removes the cards.
+To continue, press Enter...
+Six
+Seven
+Eight
+Nine
+Ten
+Jack
+Queen
+King
+Ace
+Spades
+Clubs
+Diamonds
+Hearts
+Name
+Moves
+You beat the bot in 
+Bot beat you in 
+ moves
+    Deck size: 
+------Bot Deck------
+------Your Deck------
+----------------
+-----Bot Card-----
+-----Your Card----
+---------------------
